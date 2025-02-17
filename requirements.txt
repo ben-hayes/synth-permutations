@@ -21,7 +21,7 @@ rootutils       # standardizing the project root setup
 pre-commit      # hooks for applying linters on commit
 rich            # beautiful text formatting in terminal
 pytest          # tests
-scipy==1.14.1
+scipy==1.15.2
 # sh            # for running bash commands in some tests (linux/macos only)
 
 POT
